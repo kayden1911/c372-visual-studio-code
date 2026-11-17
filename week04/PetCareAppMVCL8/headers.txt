@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /bookings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 31
+Date: Tue, 10 Nov 2026 02:36:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 2845
+ETag: W/"b1d-/Qe9piqlhZ3Rh+szsgeVeQZQQjA"
+Date: Tue, 10 Nov 2026 02:36:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
